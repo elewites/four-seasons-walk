@@ -1,6 +1,6 @@
 # Four Seasons Walk
 
-Four Seasons Walk is a program organized by Better Environmentally Sound Transportation (BEST [https://www.best.bc.ca/]). The Living Streets Division organizes  walks for all ages and abilities to improve mental health, reduce depression, and fight social isolation. This program offers the benefits of fostering spaces for newcomers to meet, explore their community, and learn how to use public transit and other alternatives to driving.
+Four Seasons Walk is a program organized by Better Environmentally Sound Transportation ([BEST] (https://www.best.bc.ca/)). The Living Streets Division organizes  walks for all ages and abilities to improve mental health, reduce depression, and fight social isolation. This program offers the benefits of fostering spaces for newcomers to meet, explore their community, and learn how to use public transit and other alternatives to driving.
 
 
 This code uses data from the Four Seasons Walk 2022 to create insightful visualizations which where then used to put together a technical report about the program. 
