@@ -12,6 +12,6 @@ This code uses data from the Four Seasons Walk 2022 to create insightful visuali
 - Two figures that show # of participatns that were familiar with event site before attending the walk 
 - Two figures that show whether participants would choose same commute route to return to event site if they were to come back again
 
-#### Checkout .pdf file for only visualizations without any code
+#### Checkout `summary_of_results.pdf` file for final visualizations
 
 **Data file not included in repo**
