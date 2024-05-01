@@ -1,17 +1,17 @@
 # Four Seasons Walk
 
-Four Seasons Walk is a program organized by Better Environmentally Sound Transportation [BEST](https://www.best.bc.ca/). The Living Streets Division organizes  walks for all ages and abilities to improve mental health, reduce depression, and fight social isolation. This program offers the benefits of fostering spaces for newcomers to meet, explore their community, and learn how to use public transit and other alternatives to driving.
+The Four Seasons Walk program, led by Better Environmentally Sound Transportation [BEST](https://www.best.bc.ca/), arranges walks for people of all ages and abilities to boost mental health, combat loneliness, and foster community connections. It's a chance for newcomers to explore their neighborhood and learn about different ways of getting around besides driving.
 
-
-This code uses data from the Four Seasons Walk 2022 to create insightful visualizations which where then used to put together a technical report about the program. 
 
 ### Visualizations 
 
-- One figure of Annual Participant Mobility: shows modes of transportation choosen by participants to commute to event sites where walks were organized
-- Two figures displaying the Mode of Transportation choosen by participants per site
-- Two figures that show # of participatns that were familiar with event site before attending the walk 
-- Two figures that show whether participants would choose same commute route to return to event site if they were to come back again
+This code analyzes data from the 2022 Four Seasons Walk to create easy-to-understand visuals for a technical report on the program:
 
-#### Checkout `summary_of_results.pdf` file for final visualizations
+- **Annual Participant Mobility**: Shows how participants traveled to event sites.
+- **Mode of Transportation per Site**: Displays how people got to each event location.
+- **Familiarity with Event Site**: Indicates how many participants knew the site before the walk.
+- **Preference for Commute Route**: Shows if participants would use the same route to return to the event site.
+
+#### Checkout [summary_of_results.pdf](https://github.com/elewites/four-seasons-walk/blob/main/summary_of_results.pdf) file for final visualizations
 
 **Data file not included in repo**
