@@ -12,6 +12,7 @@ This code analyzes data from the 2022 Four Seasons Walk to create easy-to-unders
 - **Familiarity with Event Site**: Indicates how many participants knew the site before the walk.
 - **Preference for Commute Route**: Shows if participants would use the same route to return to the event site.
 
+code: [four_seasons_data.ipynb](https://github.com/elewites/four-seasons-walk/blob/main/four_seasons_data.ipynb)
 #### Checkout [summary_of_results.pdf](https://github.com/elewites/four-seasons-walk/blob/main/summary_of_results.pdf) file for final visualizations
 
 **Data file not included in repo**
